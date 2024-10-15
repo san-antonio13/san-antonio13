@@ -23,8 +23,7 @@ Aunque actualmente no tengo proyectos públicos en mi GitHub, estoy trabajando e
 <!-- BARRA DE CARGA SEPARADOR -->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<h2>📖 | Lenguajes y Herramientas</h2> 
-
+#### 📖 |Languages and Tools:
 
 ![Java](http://img.shields.io/badge/-Java-e8892f?style=flat-square&logo=java&logoColor=white)
 ![Sql](http://img.shields.io/badge/-Sql-00758f?style=flat-square&logo=Mysql&logoColor=white)
