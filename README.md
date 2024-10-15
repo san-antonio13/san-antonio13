@@ -6,7 +6,7 @@
 </div>
 
 <!-- SALUDO-->
-<img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=900&size=40=true&vCenter=true&width=500&height=70&duration=4000&color=B3B3B3&lines=Hola!+👋;+Soy+Antonio+🤖!;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=900&size=40=true&vCenter=true&width=500&height=40&duration=4000&color=B3B3B3&lines=Hola!+👋;+Soy+Antonio+🤖!;" />
 <!-- BARRA DE CARGA SEPARADOR -->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
