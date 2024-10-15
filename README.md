@@ -22,12 +22,6 @@ Aunque actualmente no tengo proyectos públicos en mi GitHub, estoy trabajando e
 
 <img align="right" alt="Coding" width="400" src="https://github.com/supravatm/supravatm/blob/main/src/code.gif">
 
-📫 How to reach me **supravt.com@gmail.com**
-
-📄 Know about my experiences [my experiences](http://supravatm.github.io)
-
-⚡ Fun fact **I think I'm funny**
-
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
