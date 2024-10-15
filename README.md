@@ -14,7 +14,7 @@
 <!-- CONTEXTO DEL SOBRE MI -->
 🤸🏼‍♂️ | Sobre mí:
 
-🌐 Me apasiona el mundo de la programación y disfruto cada etapa de su curva de aprendizaje. Actualmente me considero un desarrollador junior en constante evolución, explorando tanto el frontend como el backend. He trabajado en proyectos que abarcan diversas tecnologías, lo que me ha permitido adquirir una visión integral del desarrollo de software.
+Me apasiona el mundo de la programación y disfruto cada etapa de su curva de aprendizaje. Actualmente me considero un desarrollador junior en constante evolución, explorando tanto el frontend como el backend. He trabajado en proyectos que abarcan diversas tecnologías, lo que me ha permitido adquirir una visión integral del desarrollo de software.
 
 Mi mayor interés en este momento está en Java y su potente framework Spring Boot, aunque siempre estoy abierto a aprender nuevas tecnologías y enfoques. Actualmente, mi objetivo es especializarme en desarrollo backend con Java y Spring Boot, y seguir explorando microservicios y arquitecturas escalables.
 
