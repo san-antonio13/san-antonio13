@@ -13,13 +13,14 @@
 
 <br><br>
 
-🔭 I’m currently working on **Magento 2**
+<h2>📖 | Sobre mí</h2> 
+🌐 Me apasiona el mundo de la programación y disfruto cada etapa de su curva de aprendizaje. Actualmente me considero un desarrollador junior en constante evolución, explorando tanto el frontend como el backend. He trabajado en proyectos que abarcan diversas tecnologías, lo que me ha permitido adquirir una visión integral del desarrollo de software.
 
-🌱 I’m currently learning **Magento 2 cloud**
+Mi mayor interés en este momento está en Java y su potente framework Spring Boot, aunque siempre estoy abierto a aprender nuevas tecnologías y enfoques. Actualmente, mi objetivo es especializarme en desarrollo backend con Java y Spring Boot, y seguir explorando microservicios y arquitecturas escalables.
 
-👨‍💻 All of my projects are available at [Supravat's works](https://supravatm.github.io/projects)
+Aunque actualmente no tengo proyectos públicos en mi GitHub, estoy trabajando en nuevos proyectos que pronto compartiré. Este es un excelente momento para comenzar desde cero y estoy entusiasmado por lo que viene.
 
-💬 Ask me about **PHP, Magento, LAMP**
+
 
 📫 How to reach me **supravt.com@gmail.com**
 
