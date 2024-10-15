@@ -7,9 +7,7 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=900&size=40=true&vCenter=true&width=500&height=70&duration=4000&color=B3B3B3&lines=Hola!+👋;+Soy+Antonio+🤖!;" />
 
 
-<br>
 
-<img align="right" alt="Coding" width="400" src="https://github.com/supravatm/supravatm/blob/main/src/code.gif">
 
 <br><br>
 
@@ -20,7 +18,9 @@ Mi mayor interés en este momento está en Java y su potente framework Spring Bo
 
 Aunque actualmente no tengo proyectos públicos en mi GitHub, estoy trabajando en nuevos proyectos que pronto compartiré. Este es un excelente momento para comenzar desde cero y estoy entusiasmado por lo que viene.
 
+<br>
 
+<img align="right" alt="Coding" width="400" src="https://github.com/supravatm/supravatm/blob/main/src/code.gif">
 
 📫 How to reach me **supravt.com@gmail.com**
 
