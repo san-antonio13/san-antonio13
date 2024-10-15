@@ -6,10 +6,14 @@
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=900&size=40=true&vCenter=true&width=500&height=70&duration=4000&color=B3B3B3&lines=Hi+There!+👋;+I'm+Antonio+🤖!;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=900&size=40=true&vCenter=true&width=500&height=70&duration=4000&color=B3B3B3&lines=Hola!+👋;+Soy+Antonio+🤖!;" />
 
-<h2>📖 | About me</h2> 
-🌐 With 3+ years of experience as a Senior Software Engineer, I'm dedicated to developing software solutions that effectively bridge technology with real-world applications. My comprehensive expertise encompasses frontend, backend, and full-stack development, enabling me to contribute significantly to projects ranging from innovative startups to complex enterprise solutions. I advocate for clean, maintainable code and user-centric design, thriving in environments that prioritize innovation and ongoing professional growth.
+<h2>📖 | Sobre mí</h2> 
+🌐 Me apasiona el mundo de la programación y disfruto cada etapa de su curva de aprendizaje. Actualmente me considero un desarrollador junior en constante evolución, explorando tanto el frontend como el backend. He trabajado en proyectos que abarcan diversas tecnologías, lo que me ha permitido adquirir una visión integral del desarrollo de software.
+
+Mi mayor interés en este momento está en Java y su potente framework Spring Boot, aunque siempre estoy abierto a aprender nuevas tecnologías y enfoques. Actualmente, mi objetivo es especializarme en desarrollo backend con Java y Spring Boot, y seguir explorando microservicios y arquitecturas escalables.
+
+Aunque actualmente no tengo proyectos públicos en mi GitHub, estoy trabajando en nuevos proyectos que pronto compartiré. Este es un excelente momento para comenzar desde cero y estoy entusiasmado por lo que viene.
 
 <div align="center">
   <br>
